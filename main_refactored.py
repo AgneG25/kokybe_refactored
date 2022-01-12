@@ -201,7 +201,6 @@ class TicTacToe():
 
         return game_over
 
-
     def click(self, event):
         """
         Clicks
